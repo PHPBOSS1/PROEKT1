@@ -1,3 +1,1 @@
-# PROEKT1
-# PROEKT1
-# PROEKT1
+Блог без плюшек с npm и прочек
